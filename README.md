@@ -3,7 +3,7 @@ linux_task3
 
 🐧 Linux Task – Network Diagnostics Assignment
 
-This repository contains my GUVI Linux assignment focused on basic network troubleshooting and system diagnostics. All tasks were executed using the WSL Ubuntu terminal and outputs logged to files. The work reflects my interest in networking within the broader DevOps context.
+This repository contains my GUVI Linux assignment focused on basic network troubleshooting and system diagnostics. All tasks were executed using the WSL Ubuntu terminal and outputs logged to files.
 
 
 ---
@@ -47,7 +47,7 @@ Checked if port 9000 on guvi.com was open:
 
 telnet guvi.com 9000
 
-Connection opened and closed immediately — indicates port is active but service is rejecting input (normal in real-world setups).
+Connection opened and stagnated with no resolution.
 
 Also tested port 80 for baseline reference.
 
@@ -57,6 +57,8 @@ Also tested port 80 for baseline reference.
 
 4. 📊 CPU & Memory Usage Snapshot
 
+Used htop cmd for better a graphical representation.
+  
 Collected system performance data using top:
 
 top -b -n 1 > server_cpumemory.txt
@@ -134,7 +136,6 @@ Resource monitoring can be logged cleanly with simple flags.
 batcat continues to be my preferred tool for structured CLI output.
 
 
-> Through every step, I kept a networking-first mindset — echoing my long-term specialization goals.
 
 
 
