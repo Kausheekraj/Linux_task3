@@ -93,7 +93,7 @@ LinuxCommand.org – CLI fundamentals
 
 KodeKloud Linux Labs – Terminal practice
 
-StackOverflow – Behavior of telnet and top
+Ray Yao - Linux CLI (cover all essential Linux commands) Beginners guide
 
 
 
