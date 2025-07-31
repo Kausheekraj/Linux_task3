@@ -1,0 +1,19 @@
+;; Got recursion not available from 172.28.240.1
+Server:		172.28.240.1
+Address:	172.28.240.1#53
+
+Non-authoritative answer:
+Name:	guvi.in
+Address: 172.67.70.207
+Name:	guvi.in
+Address: 104.26.4.88
+Name:	guvi.in
+Address: 104.26.5.88
+;; Got recursion not available from 172.28.240.1
+Name:	guvi.in
+Address: 2606:4700:20::681a:558
+Name:	guvi.in
+Address: 2606:4700:20::681a:458
+Name:	guvi.in
+Address: 2606:4700:20::ac43:46cf
+
